@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "testing"
   spec.description   = "testing"
-  spec.homepage      = "www.testing.com"
+  spec.homepage      = "https://www.testing.com"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "testing"
