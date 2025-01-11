@@ -6,7 +6,7 @@ module Gem1Test
   class Error < StandardError; end
 
   def self.get_msg
-    "Gem1Test Version 2"
+    "Gem1Test Version 3"
   end
   # Your code goes here...
 end
